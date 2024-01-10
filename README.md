@@ -4,7 +4,7 @@ This GitHub repo represents my ML projects. Dive into the code to see how I'm tr
 # Machine Learning Projects Repository
 
 Welcome to my Machine Learning playground! 
-🚀 This repository hosts projects focused on predicting gold prices, car prices, and calorie burn using a variety of regression algorithms like Linear Regression, Lasso Regression, XGBoost Regression, and more.
+- 🚀 This repository hosts projects focused on predicting gold prices, car prices, and calorie burn using a variety of regression algorithms like Linear Regression, Lasso Regression, XGBoost Regression, and more.
 
 ## Projects Overview
 
